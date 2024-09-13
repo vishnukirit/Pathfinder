@@ -38,7 +38,7 @@ pip install windows-curses
 2. Run the script:
 ```markdown
 ```bash
-python maze_solver.py
+python Pathfinder.py
 ```
 3. The maze will be displayed in your terminal, and the algorithm will start finding the path from `O` to `X`.
 
