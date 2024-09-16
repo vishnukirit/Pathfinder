@@ -1,4 +1,4 @@
-# Pathfinder
+# Shortest Path Finder
 This Python project is a simple maze-solving algorithm that utilizes the `curses` library to visually navigate through a maze using **Breadth-First Search (BFS)**.
 
 The maze consists of walls represented by `#`, an entry point represented by `O`, and an exit point represented by `X`. The algorithm attempts to find the shortest path from `O` to `X` and displays it on the terminal.
